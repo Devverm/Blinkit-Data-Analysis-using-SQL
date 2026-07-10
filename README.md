@@ -1,6 +1,6 @@
 # Blinkit Data Analysis using SQL
 
-![Blinkit Banner](image.png)
+![Blinkit Banner]()
 
 **Tools Used:** SQL, Excel, Power BI
 
