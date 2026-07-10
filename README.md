@@ -1,4 +1,4 @@
-# Blinkit Data Analysis using SQL
+# Blinkit Analysis
 
 ![Blinkit Banner]()
 
